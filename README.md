@@ -3,7 +3,7 @@
 
 ## How to install (DEFAULT or BASIC USAGE)
 	* git clone https://github.com/tri-hermawan/instagram-tools-master
-	* cd instagram-tools
+	* cd instagram-tools-master
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
@@ -29,7 +29,7 @@
 	* pkg install git
 	* pkg install nodejs
 	* git clone https://github.com/tri-hermawan/instagram-tools-master
-	* cd instagram-tools
+	* cd instagram-tools-master
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
@@ -47,7 +47,7 @@
 
 	=========== Basic Usage ==============
 	* git clone https://github.com/tri-hermawan/instagram-tools-master
-	* cd instagram-tools
+	* cd instagram-tools-master
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
@@ -83,7 +83,7 @@
 
 	=========== Basic Usage ==============
 	* git clone https://github.com/tri-hermawan/instagram-tools-master
-	* cd instagram-tools
+	* cd instagram-tools-master
 	* unzip node_modules.zip
 	* nvm use 10.7.0
 	* ls
